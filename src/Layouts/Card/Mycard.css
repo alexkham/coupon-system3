@@ -1,0 +1,44 @@
+.card{
+    width: 200px;
+    min-height: 200px;
+    
+    position:relative;
+    display: block;
+    border: 1px solid;
+    
+    margin-top: 20px;
+    align-items: center;
+   
+    
+
+}
+
+.card-text{
+    color: #fff;
+    min-width: 200px;
+}
+
+.card-link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.card-body{
+
+
+    border: solid 1px;
+    border-radius: 10px;
+    margin-top : -10px;
+    background-color : '#0dcaf0';
+    
+    
+}
+
+/*}.card:hover{
+    box-shadow: 5px 10px 5px 10px;
+}*/
+
+.mb-2 text-muted{
+    text-decoration-color: blue;
+}
+

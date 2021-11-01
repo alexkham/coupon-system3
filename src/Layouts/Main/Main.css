@@ -1,0 +1,54 @@
+.Main {
+	background-color: rgb(233, 232, 227);
+    
+    min-height: 750px;
+    margin: -10px 0px -20px 0px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin-left: 250px;
+   
+   
+    
+}
+
+.Main >.my-card{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(10rem,20rem));
+ 
+  margin-bottom: 40px;
+  margin: 30px;
+
+ 
+
+}
+
+.Main>header{
+  background-color:#0d6efd ;
+  height: 40px;
+  width: auto;
+  align-content: center;
+  vertical-align:middle;
+  justify-content: center;
+  text-align: center;
+  text-emphasis:initial;
+}
+
+.Main>.card-wrapper{
+  margin:20px;
+  align-self: center;
+}
+
+.Main>.profile-img{
+
+  border-radius: 50%;
+  width:20%;
+}
+
